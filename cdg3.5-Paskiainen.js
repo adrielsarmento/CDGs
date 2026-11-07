@@ -19,3 +19,14 @@ IF_[nome da variável -->><| 15] ((
   WRITING-PUT:
     nome_da_variável PUT.
 ))
+
+-------------------------------------------------
+somatoria
+-------------------------------------------------
+*/START_Paskiainen.2
+
+CREATE_XVARX: somaPUSH
+
+somaPUSH PUT 10
+WRITING-PUT:
+  somaPUSH PUT.
