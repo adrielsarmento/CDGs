@@ -25,8 +25,10 @@ somatoria
 -------------------------------------------------
 */START_Paskiainen.2
 
-CREATE_XVARX: somaPUSH
+CREATE_XVARX_: somaPUSH
+  1
 
 somaPUSH PUT 10
+
 WRITING-PUT:
   somaPUSH PUT.
